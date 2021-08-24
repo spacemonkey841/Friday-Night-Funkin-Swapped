@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Start_Character_Assets.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Menu Characters Idle0000" x="10" y="10" width="1289" height="730"/>
+	<SubTexture name="Menu Characters Idle0001" x="1309" y="10" width="1289" height="730"/>
+	<SubTexture name="Menu Characters Idle0002" x="2608" y="10" width="1289" height="730"/>
+	<SubTexture name="Menu Characters Idle0003" x="10" y="750" width="1289" height="730"/>
+	<SubTexture name="Menu Characters Idle0004" x="1309" y="750" width="1289" height="730"/>
+	<SubTexture name="Menu Characters Idle0005" x="2608" y="750" width="1289" height="730"/>
+	<SubTexture name="Menu Characters Idle0006" x="10" y="1490" width="1289" height="730"/>
+	<SubTexture name="Menu Characters Idle0007" x="1309" y="1490" width="1289" height="730"/>
+	<SubTexture name="Menu Characters Idle0008" x="2608" y="1490" width="1289" height="730"/>
+	<SubTexture name="Menu Characters Idle0009" x="10" y="2230" width="1289" height="730"/>
+	<SubTexture name="Menu Characters Idle0010" x="1309" y="2230" width="1289" height="730"/>
+	<SubTexture name="Menu Characters Idle0011" x="2608" y="2230" width="1289" height="730"/>
+	<SubTexture name="Menu Characters Idle0012" x="10" y="2970" width="1289" height="730"/>
+	<SubTexture name="Menu Characters Idle0013" x="1309" y="2970" width="1289" height="730"/>
+	<SubTexture name="Menu Characters Idle0014" x="2608" y="2970" width="1289" height="730"/>
+	<SubTexture name="Menu Characters Idle0015" x="10" y="10" width="1289" height="730"/>
+	<SubTexture name="Menu Characters Idle0016" x="1309" y="10" width="1289" height="730"/>
+	<SubTexture name="Menu Characters Idle0017" x="2608" y="10" width="1289" height="730"/>
+	<SubTexture name="Menu Characters Idle0018" x="10" y="750" width="1289" height="730"/>
+	<SubTexture name="Menu Characters Idle0019" x="1309" y="750" width="1289" height="730"/>
+	<SubTexture name="Menu Characters Idle0020" x="2608" y="750" width="1289" height="730"/>
+	<SubTexture name="Menu Characters Idle0021" x="10" y="1490" width="1289" height="730"/>
+	<SubTexture name="Menu Characters Idle0022" x="1309" y="1490" width="1289" height="730"/>
+	<SubTexture name="Menu Characters Idle0023" x="2608" y="1490" width="1289" height="730"/>
+	<SubTexture name="Menu Characters Idle0024" x="10" y="2230" width="1289" height="730"/>
+	<SubTexture name="Menu Characters Idle0025" x="1309" y="2230" width="1289" height="730"/>
+	<SubTexture name="Menu Characters Idle0026" x="2608" y="2230" width="1289" height="730"/>
+	<SubTexture name="Menu Characters Idle0027" x="10" y="2970" width="1289" height="730"/>
+	<SubTexture name="Menu Characters Idle0028" x="1309" y="2970" width="1289" height="730"/>
+	<SubTexture name="Menu Characters Idle0029" x="2608" y="2970" width="1289" height="730"/>
+</TextureAtlas>
